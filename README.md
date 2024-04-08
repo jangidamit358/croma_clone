@@ -1,4 +1,4 @@
-# CROMA-ELECTRONICS Clone Front-End Project
+# CROMA-ELECTRONICS Clone Project
 ---
 
 # Welcome 👋
@@ -7,17 +7,6 @@
 
 ## About this project: 🙌
 > This is a team project, built by us in the Construct Week - Unit 2 at Masai School.
-
----
-## Our Team Members ❤️
-
-- **[SAJAN MADAAN](https://github.com/sajanmadaan)**
-- **[ANSHUL SHARMA](https://github.com/anshul160196)**
-- **[KUNDAN PRASAD](https://github.com/KundanPrasad11)**
-- **[NAGENDRA MURLIDHAR](https://github.com/nag-murali)**
-- **[AKSHIT](https://github.com/akkii0703)**
-- **[YOGESH KUMAWAT](https://github.com/yogeshkumawat007)**
-
 
 ---
 ### Demo Link 👇
